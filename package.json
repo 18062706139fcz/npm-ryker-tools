@@ -1,0 +1,16 @@
+{
+    "name": "ryker-tools",
+    "version": "1.0.0",
+    "main": "index.js",
+    "description": "提供了格式化事件 HTML Escape的功能",
+    "keywords": [
+        "ryker",
+        "dataFormat",
+        "escape"
+    ],
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "ryker-tools": "^1.0.0"
+    }
+}
